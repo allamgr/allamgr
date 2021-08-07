@@ -4,7 +4,7 @@
 <h3 align="center">Curious senior fullsatck developer from Dominican Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allamgr&label=Profile%20views&color=0e75b6&style=flat" alt="allamgr" /> </p>
-<p align="left"> <a href="https://twitter.com/alamgr" target="blank"><img src="https://img.shields.io/twitter/follow/alamgr?logo=twitter&style=for-the-badge" alt="alamgr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/allamgr" target="blank"><img src="https://img.shields.io/twitter/follow/allamgr?logo=twitter&style=for-the-badge" alt="allamgr" /></a> </p>
 
 - 🔭 I’m currently working on [portfolio](https://github.com/allamgr/portafolio)
 
